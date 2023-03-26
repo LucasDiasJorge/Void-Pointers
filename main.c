@@ -24,6 +24,10 @@ int main(){
 
     printf("The value saved in %p is %d\n", ptr, *ptr);
 
+    printf("ptr address is %p\n", ptr);
+
+    printf("ptr + 2 address is %p\n", ptr+2); // 8 bytes = 2 ints
+
     sayHello();
 
     int z = 0xFEEDBEED;
