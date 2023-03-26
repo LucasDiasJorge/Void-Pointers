@@ -1,4 +1,4 @@
-# Pointers
+# Void Pointers
  
  https://www.youtube.com/watch?v=Vd-4eGnBAK8&ab_channel=JacobSorber
 
